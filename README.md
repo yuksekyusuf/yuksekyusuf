@@ -15,10 +15,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://developer.apple.com/swift//" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-og.png")
-"alt="swift" width="40" height="40"/> </a> 
+<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-og.png")
+"alt="swift" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg")
+"alt="python" width="40" height="40"/> </a> 
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://westcampus.yale.edu/sites/default/files/styles/medium/public/event-images/r_0.png?itok=CsKHEjut")
-"alt="swift" width="40" height="40"/> </a> 
+"alt="R" width="40" height="40"/> </a> 
 </p>
   
   

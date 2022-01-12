@@ -12,6 +12,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.apple.com/swift//" target="_blank"> <img src="https://images.app.goo.gl/83MAjk4g1DGQLYos5" alt="swift" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://developer.apple.com/swift//" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-og.png![image](https://user-images.githubusercontent.com/68251921/149064563-5628457f-f345-4ae4-a940-c01e8b151499.png)
+" alt="swift" width="40" height="40"/> </a> 
   
   

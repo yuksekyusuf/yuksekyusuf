@@ -2,7 +2,7 @@
 <h3 align="center">A phd candidate and iOS Developer</h3>
 
 - 📫 How to reach me **ayy236@nyu.edu**
-
+- 🌱 Focus on architectural design and protocol-oriented programming
 - 💬 Ask me about **UIKit, SwiftUI**
 
 <h3 align="left">Connect with me:</h3>

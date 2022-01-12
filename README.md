@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet Yusuf Yüksek</h1>
 <h3 align="center">A phd candidate and iOS Developer</h3>
 
+
+- 🌱 I’m currently learning **architectural design and protocol-oriented programming**
 - 📫 How to reach me **ayy236@nyu.edu**
-- 🌱 Focus on architectural design and protocol-oriented programming
-- 💬 Ask me about **UIKit, SwiftUI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,8 +11,6 @@
 </p>
 
 
-
-![vax](https://img.shields.io/badge/vaccinated-moderna-orange)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-og.png")

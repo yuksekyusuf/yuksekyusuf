@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://developer.apple.com/swift/images/swift-og.png")
+<a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg")
 "alt="swift" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg")
 "alt="python" width="40" height="40"/> </a> 

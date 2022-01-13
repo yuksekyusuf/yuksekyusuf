@@ -3,6 +3,7 @@
 
 
 - 🌱 I’m currently learning **architectural design and protocol-oriented programming**
+- 🔖 Read my posts at [The Digital Orientalist](https://digitalorientalist.com/author/yuksekyusuf/)
 - 📫 How to reach me **ayy236@nyu.edu**
 
 <h3 align="left">Connect with me:</h3>

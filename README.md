@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **architectural design and protocol-oriented programming**
 - 🔖 Read my posts at [The Digital Orientalist](https://digitalorientalist.com/author/yuksekyusuf/)
-- 📫 How to reach me **ayy236@nyu.edu**
+- 📫 Reach me at **ayy236@nyu.edu**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow me:</h3>
 <p align="left">
 <a href="https://twitter.com/ay_yuksek" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" alt="apjanco" height="30" width="40" /></a>
 </p>

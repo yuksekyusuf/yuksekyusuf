@@ -2,7 +2,6 @@
 <h3 align="center">A phd candidate and iOS Developer</h3>
 
 
-- 🌱 I’m currently learning **architectural design** and **protocol-oriented programming**
 - 🔖 Read my posts at [The Digital Orientalist](https://digitalorientalist.com/author/yuksekyusuf/)
 - 📫 Reach me at **ayy236@nyu.edu**
 

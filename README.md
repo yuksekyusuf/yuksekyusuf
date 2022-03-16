@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Yusuf Yüksek</h1>
-<h3 align="center">A phd candidate and iOS Developer</h3>
+<h3 align="center">A phd candidate and self-taught iOS Developer</h3>
 
 
 - 🔖 Read my posts at [The Digital Orientalist](https://digitalorientalist.com/author/yuksekyusuf/)

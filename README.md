@@ -1,7 +1,7 @@
 <h3 align="center">A phd candidate in history at New York University and self-taught developer</h3>
 
 
-- 🔖 Read my posts at [The Digital Orientalist](https://digitalorientalist.com/author/yuksekyusuf/)
+- 🔖 Read my posts at [The Digital Orientalist](https://digitalorientalist.com/author/yuksekyusuf/) and [Ottoman Digital History](https://www.digitalottomanstudies.com/post/natural-language-processing-in-ottoman-turkish-opportunities-and-drawbacks)
 - 📫 Reach me at **ayy236@nyu.edu**
 
 <h3 align="left">Follow me:</h3>

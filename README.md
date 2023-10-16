@@ -19,7 +19,7 @@
 "alt="python" width="40" height="40"/> </a> 
 <a href="https://isocpp.org" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png")
 "alt="C++" width="40" height="40"/> </a> 
-<a href="https://www.r-project.org/" target="_blank"> <img src="https://en.wikipedia.org/wiki/R_%28programming_language%29#/media/File:R_logo.svg")
+<a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.svg")
 "alt="R" width="40" height="40"/> </a> 
 </p>
   

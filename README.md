@@ -17,7 +17,7 @@
 "alt="swift" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg")
 "alt="python" width="40" height="40"/> </a> 
-<a href="https://isocpp.org" target="_blank"> <img src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg")
+<a href="https://isocpp.org" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png")
 "alt="C++" width="40" height="40"/> </a> 
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://en.wikipedia.org/wiki/R_%28programming_language%29#/media/File:R_logo.svg")
 "alt="R" width="40" height="40"/> </a> 

@@ -1,4 +1,4 @@
-- Currently working on my iOS game, [Jungle Spirits](https://www.figma.com/proto/CzUrI4OascVkhBQhS7IQeb/JungleSpirits-Apple-Arcade?page-id=&type=design&node-id=8-2581&viewport=1388%2C-152%2C0.2&t=uSDDVUL0uYk31sVh-1&scaling=contain&mode=design)
+- Currently working on my iOS game [Jungle Spirits](https://www.figma.com/proto/CzUrI4OascVkhBQhS7IQeb/JungleSpirits-Apple-Arcade?page-id=&type=design&node-id=8-2581&viewport=1388%2C-152%2C0.2&t=uSDDVUL0uYk31sVh-1&scaling=contain&mode=design)
 - 🔖 Read my posts at [The Digital Orientalist](https://digitalorientalist.com/author/yuksekyusuf/) and [Ottoman Digital History](https://www.digitalottomanstudies.com/post/natural-language-processing-in-ottoman-turkish-opportunities-and-drawbacks)
 - 📫 Reach me at **ayy236@nyu.edu**
   

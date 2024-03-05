@@ -1,6 +1,6 @@
 <h3 align="center">A phd candidate in history at New York University and self-taught developer</h3>
 
-- Download my iOS game at [App Store](https://apps.apple.com/us/app/temple-gems/id6450963181)
+- Currently working on a strategy game [Jungle Spirits] ([https://apps.apple.com/us/app/temple-gems/id6450963181](https://www.figma.com/proto/CzUrI4OascVkhBQhS7IQeb/JungleSpirits-Apple-Arcade?page-id=&type=design&node-id=8-2581&viewport=1388%2C-152%2C0.2&t=ZI5SHATAYiy52k9T-1&scaling=contain))
 - 🔖 Read my posts at [The Digital Orientalist](https://digitalorientalist.com/author/yuksekyusuf/) and [Ottoman Digital History](https://www.digitalottomanstudies.com/post/natural-language-processing-in-ottoman-turkish-opportunities-and-drawbacks)
 - 📫 Reach me at **ayy236@nyu.edu**
   

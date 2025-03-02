@@ -1,4 +1,5 @@
-- Currently working on my iOS game [Jungle Spirits](https://apps.apple.com/us/app/jungle-spirits/id6450963181)
+- PhD candidate in computational humanities and an iOS developer with a strong foundation in computer science
+- Built iOS game [Jungle Spirits](https://apps.apple.com/us/app/jungle-spirits/id6450963181)
 - 🔖 Read my posts at [The Digital Orientalist](https://digitalorientalist.com/author/yuksekyusuf/), [Ottoman Digital History](https://www.digitalottomanstudies.com/post/natural-language-processing-in-ottoman-turkish-opportunities-and-drawbacks) and [Medium](https://medium.com/@ayy236)
 - 📫 Reach me at **ayy236@nyu.edu**
   

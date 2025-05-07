@@ -1,4 +1,4 @@
-- An iOS developer with a strong foundation in computer science and PhD candidate in computational humanities and 
+- An iOS developer with a strong foundation in computer science and PhD candidate in computational humanities
 - Built [Jungle Spirits](https://apps.apple.com/us/app/jungle-spirits/id6450963181) and [LingoPod](https://apps.apple.com/app/lingopod-ai-listen-learn/id6743250875) 
 - 🔖 Read my posts at [The Digital Orientalist](https://digitalorientalist.com/author/yuksekyusuf/), [Ottoman Digital History](https://www.digitalottomanstudies.com/post/natural-language-processing-in-ottoman-turkish-opportunities-and-drawbacks) and [Medium](https://medium.com/@ayy236)
 - 📫 Reach me at **ayy236@nyu.edu**
